@@ -78,6 +78,4 @@ The model achieves:
 
 ## Author
 
-Kwaku Amo-Korankye
-10211100331
-Academic City
+Kwaku Amo-Korankye<br>10211100331<br>Academic City
