@@ -14,7 +14,7 @@ The project uses a custom CNN architecture implemented in TensorFlow/Keras to cl
 
 ## Requirements
 
-- Python 3.x
+- Python 3.8+
 - TensorFlow 
 - Keras
 - OpenCV
